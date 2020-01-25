@@ -1,4 +1,4 @@
-# compoco
+# Compoco - a vue component library
 
 ## Project setup
 ```
