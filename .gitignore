@@ -3,6 +3,7 @@ node_modules
 /dist
 .yarn/
 .pnp.js
+/storybook-static
 
 # local env files
 .env.local
